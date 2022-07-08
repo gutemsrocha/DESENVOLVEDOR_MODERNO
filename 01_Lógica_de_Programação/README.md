@@ -4,7 +4,7 @@
 ### MÓDULO 01 - Lógica de Programação
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 01](https://github.com/gutemsrocha/assets/modulo01.png)
+![Modulo 01](https://github.com/gutemsrocha/assets/blob/main/modulo01.png)
 
 
 ![Logo 01](https://github.com/gutemsrocha/assets/logo01.png)
