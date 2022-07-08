@@ -4,10 +4,10 @@
 ### MÓDULO 01 - Lógica de Programação
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 01](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/modulo01.png)
+![Modulo 01](https://github.com/gutemsrocha/assets/modulo01.png)
 
 
-![Logo 01](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/logo01.png)
+![Logo 01](https://github.com/gutemsrocha/assets/logo01.png)
 
 ### Cronograma do Módulo 01 - Lógica de Programação:
 
