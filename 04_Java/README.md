@@ -4,10 +4,9 @@
 ### MÓDULO 04 -  JAVA - Programação Moderna
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 04](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/modulo04.png)
+![Modulo 04](https://github.com/gutemsrocha/assets/blob/main/modulo04.png)
 
-
-![Logo 04](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/logo04.png)
+![Logo 04](https://github.com/gutemsrocha/assets/blob/main/logo04.png)
 
 ### Cronograma do Módulo 04 - JAVA - Programação Moderna:
 
