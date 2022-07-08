@@ -4,10 +4,9 @@
 ### MÓDULO 05 -  BANCO DE DADOS
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 05](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/modulo05.png)
+![Modulo 05](https://github.com/gutemsrocha/assets/blob/main/modulo05.png)
 
-
-![Logo 05](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/logo05.png)
+![Logo 05](https://github.com/gutemsrocha/assets/blob/main/logo05.png)
 
 ### Cronograma do Módulo 05 - Banco de Dados:
 
