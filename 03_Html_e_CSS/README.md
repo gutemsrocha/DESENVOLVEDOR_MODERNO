@@ -4,10 +4,9 @@
 ### MÓDULO 03 -  HTML e CSS
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 03](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/modulo03.png)
+![Modulo 03](https://github.com/gutemsrocha/assets/blob/main/modulo03.png)
 
-
-![Logo 03](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/logo03.png)
+![Logo 03](https://github.com/gutemsrocha/assets/blob/main/logo03.png)
 
 ### Cronograma do Módulo 03 - HTML e CSS:
 
