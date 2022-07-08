@@ -4,10 +4,9 @@
 ### MÓDULO 02 - Git e Github
 ### ALUNO: Gutembergue SR Junior
 
-![Modulo 02](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/modulo02.png)
+![Modulo 02](https://github.com/gutemsrocha/assets/blob/main/modulo02.png)
 
-
-![Logo 02](https://github.com/gutemsrocha/assets/raw/main/logicaprogramacao/logo02.png)
+![Logo 02](https://github.com/gutemsrocha/assets/blob/main/logo02.png)
 
 ### Cronograma do Módulo 02 - Git e Github:
 
